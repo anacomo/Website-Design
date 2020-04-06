@@ -11,11 +11,15 @@
 - [CodePen Design Patterns](https://codepen.io/topics/)
 
 ## 1. Grid 
-### A) Tools
+### Learning
 - [CSS Tricks - Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Grid Garden](https://cssgridgarden.com/#ro)
+#### Flexbox
+- [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [Flexbox Froggy](https://flexboxfroggy.com/#ro)
+### Tools
 - [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
-- For Learning: [Grid Garden](https://cssgridgarden.com/#ro)
-### B) Examples
+### Examples
 - [CodePen Example](https://codepen.io/sdras/full/XdgBOa)
 - [Web Animation Workshop](https://webanimationworkshops.com/)
 - [Grid by Example by Rachel Andrew](https://gridbyexample.com/)
