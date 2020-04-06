@@ -13,13 +13,13 @@
 ## 1. Grid 
 ### A) Tools
 - [CSS Tricks - Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
-- [Grid by Example by Rachel Andrew](https://gridbyexample.com/)
-- [Experimantal Layout Lab by Jen Simmons](https://labs.jensimmons.com/)
-- [Grid Garden](https://cssgridgarden.com/#ro)
 - [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
+- For Learning: [Grid Garden](https://cssgridgarden.com/#ro)
 ### B) Examples
 - [CodePen Example](https://codepen.io/sdras/full/XdgBOa)
 - [Web Animation Workshop](https://webanimationworkshops.com/)
+- [Grid by Example by Rachel Andrew](https://gridbyexample.com/)
+- [Experimantal Layout Lab by Jen Simmons](https://labs.jensimmons.com/)
 
 ## 2. Color theory
 - RGB is for the screen, CMYK is for printing
