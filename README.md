@@ -43,7 +43,8 @@
 - [UI Gradients](https://uigradients.com/)
 - [CSS Gradient Animator](https://www.gradient-animator.com/)
 
-## 3. Typography rules:
+## 3. Typography
+### Rules:
 - one display, one sans-serif / one serif, one sans-serif
 - not more than three fonts
 - Don't pick types that are too similar to each other
