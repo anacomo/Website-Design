@@ -18,23 +18,22 @@ Ideas From Website Design Courses with HTML, CSS, JavaScript
 - [CodePen Design Patterns](https://codepen.io/topics/)
 - [The Noun Project - Icons](https://thenounproject.com/)
 
-1. Grid <br>
+## 1. Grid <br>
 A) Tools
-- <a href = "https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">CSS Tricks</a>
-- <a href = "https://gridbyexample.com/" target="_blank">Grid By Example by Rachel Andrew</a>
-- <a href = "https://labs.jensimmons.com/" target = "_blank"> Experimantal Layout Lab by Jen Simmons </a>
-- <a href = "https://cssgridgarden.com/#ro" target = "_blank"> Grid Garden </a>
-- <a href = "https://bennettfeely.com/clippy/"> CSS Clip Path Maker </a> <br>
+- [CSS Tricks - Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Grid by Example by Rachel Andrew](https://gridbyexample.com/)
+- [Experimantal Layout Lab by Jen Simmons](https://labs.jensimmons.com/)
+- [Grid Garden](https://cssgridgarden.com/#ro)
+- [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
 B) Examples
-- https://codepen.io/sdras/full/XdgBOa
-- https://webanimationworkshops.com/
+- [CodePen Example](https://codepen.io/sdras/full/XdgBOa)
+- [Web Animation Workshop](https://webanimationworkshops.com/)
 
-2. Color theory
+## 2. Color theory
 - RGB is for the screen, CMYK is for printing
 - Types of combinations: Monochromatic, Complementary, Anagolous, Triadic
-- Contrast:
-<ul>
-  <li> <a href = "https://colorable.jxnblk.com/" target = "_blank"> Colorable </a> </li>
+### Contrast:
+- [Colorable](https://colorable.jxnblk.com/)
   <li> <a href = "http://dasplankton.de/ContrastA/" target = "_blank"> Contrast - A </a> </li>
   <li> <a href = "http://colorsafe.co/" target = "_blank"> Color Safe </a> </li>
   <li> <a href = "https://toolness.github.io/accessible-color-matrix/" target = "_blank">  Accessible Color Palette Builder</a> </li>
@@ -50,9 +49,8 @@ B) Examples
   <li> <a href = "https://www.colorzilla.com/gradient-editor/" target = "_blank"> Ultimate CSS Color Generator </a></li>
   <li> <a href = "https://uigradients.com/" target = "_blank"> UI Gradients </a></li>
   <li> <a href = "https://www.gradient-animator.com/" target = "_blank"> CSS Gradient Animator </a></li>
-</ul>
 
-3. Typography rules:
+## 3. Typography rules:
 - one display, one sans-serif / one serif, one sans-serif
 - not more than three fonts
 - Don't pick types that are too similar to each other
@@ -61,7 +59,7 @@ B) Examples
 - <a href = "https://www.smashingmagazine.com/2016/05/fluid-typography/" target = "_blank"> Smashing Magazine Fluid Typography </a>
 - <a href = "https://css-tricks.com/snippets/svg/text-lock-up/" target = "_blank"> CSS Tricks Text Lockup </a>
 
-4. Typography Terminology
+## 4. Typography Terminology
 - Proportional vs monospaced
 - Kerning (space) and leading (line-height)
 - "widows" and "orphans"
@@ -71,7 +69,7 @@ B) Examples
 <a href = "https://meowni.ca/font-style-matcher/" target = "_blank"> Font Style Matcher </a>
 - <a href = "https://github.com/Munter/subfont" target = "_blank"> Peter Mueller Subfont </a>
 
-5. Images and Performance
+## 5. Images and Performance
 - <a href = "https://unsplash.com/" target = "_blank"> Unsplash </a>
 - Google Search Image License
 - <a href = "https://www.freepik.com/" target = "_blank"> Freepik </a>
@@ -84,6 +82,6 @@ B) Examples
 - <a href = "https://css-tricks.com/high-performance-svgs/" target = "_blank"> SVG Performance</a>
 - <a href = "https://css-tricks.com/using-svg/" target = "_blank"> SVG CSS Tricks </a>
 
-6. Motions
+## 6. Motions
 - <a href = "https://flowmapp.com/" target = "_blank"> Flow Mapp</a>
 <a href = "" target = "_blank"> </a>
