@@ -47,12 +47,14 @@
 - one display, one sans-serif / one serif, one sans-serif
 - not more than three fonts
 - Don't pick types that are too similar to each other
-### Tool
+### Tools
 - [Font Joy](https://fontjoy.com/)
+- [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 ### Articles
 - [Fluid Typography on CSS Tricks](https://css-tricks.com/snippets/css/fluid-typography/)
 - [Fluid Typography - Smashing Magazine](https://www.smashingmagazine.com/2016/05/fluid-typography/)
 - [CSS Tricks Text Lockup](https://css-tricks.com/snippets/svg/text-lock-up/)
+- [Zach Leatherman Font Performance](https://www.zachleat.com/web/five-whys/)
 
 ## 4. Typography Terminology
 - Proportional vs monospaced
@@ -60,10 +62,8 @@
 - "widows" and "orphans"
 - [Ligatures](https://practicaltypography.com/ligatures.html)
 - "Falling Down"
-- [Zach Leatherman Font Performance](https://www.zachleat.com/web/five-whys/)
-- [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 
-## 5. Images and Performance
+## 4. Images and Performance
 ### Icons
 - [The Noun Project - Icons](https://thenounproject.com/)
 ### Free pictures sources
@@ -81,5 +81,5 @@
 - [SVG Performance on CSS Tricks](https://css-tricks.com/high-performance-svgs/)
 - [SVG on CSS Tricks](https://css-tricks.com/using-svg/)
 
-## 6. Site map maker
+## 5. Site map maker
 - [Flow Mapp](https://flowmapp.com/)
