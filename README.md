@@ -1,24 +1,16 @@
 # Website-Design
-Ideas From Website Design Courses with HTML, CSS, JavaScript
- Things to take in consideration:
-- Symmetry
-- Asymmetry
-- Shapes (Circle)
-- Diagonals
-- Scale
-- Grid
 
 ## General references for HTML, CSS, JavaScript 
 - [Developer Mozilla](https://developer.mozilla.org/en-US/)
+### Design Inspiration
 - [Dribble](https://dribbble.com/)
 - [Glitch](https://glitch.com/)
 - [Behance](https://www.behance.net/)
 - [Code Sand Box](https://codesandbox.io/)
 - [Give n Go](https://give-n-go.co/)
 - [CodePen Design Patterns](https://codepen.io/topics/)
-- [The Noun Project - Icons](https://thenounproject.com/)
 
-## 1. Grid <br>
+## 1. Grid 
 ### A) Tools
 - [CSS Tricks - Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid by Example by Rachel Andrew](https://gridbyexample.com/)
@@ -72,6 +64,8 @@ Ideas From Website Design Courses with HTML, CSS, JavaScript
 - [Font Style Matcher](https://meowni.ca/font-style-matcher/)
 
 ## 5. Images and Performance
+### Icons
+- [The Noun Project - Icons](https://thenounproject.com/)
 ### Free pictures sources
 - [Unsplash](https://unsplash.com/)
 - [Freepik](https://www.freepik.com/)
