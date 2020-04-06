@@ -19,13 +19,13 @@ Ideas From Website Design Courses with HTML, CSS, JavaScript
 - [The Noun Project - Icons](https://thenounproject.com/)
 
 ## 1. Grid <br>
-A) Tools
+### A) Tools
 - [CSS Tricks - Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Grid by Example by Rachel Andrew](https://gridbyexample.com/)
 - [Experimantal Layout Lab by Jen Simmons](https://labs.jensimmons.com/)
 - [Grid Garden](https://cssgridgarden.com/#ro)
 - [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
-B) Examples
+### B) Examples
 - [CodePen Example](https://codepen.io/sdras/full/XdgBOa)
 - [Web Animation Workshop](https://webanimationworkshops.com/)
 
