@@ -57,7 +57,7 @@
 - [CSS Tricks Text Lockup](https://css-tricks.com/snippets/svg/text-lock-up/)
 - [Zach Leatherman Font Performance](https://www.zachleat.com/web/five-whys/)
 
-## 4. Typography Terminology
+### Typography Terminology
 - Proportional vs monospaced
 - Kerning (space) and leading (line-height)
 - "widows" and "orphans"
