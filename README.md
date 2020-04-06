@@ -1,6 +1,6 @@
 # Website-Design
-Ideas From Website Design Courses with HTML, CSS, JavaScript <br>
-Things to take in consideration:
+Ideas From Website Design Courses with HTML, CSS, JavaScript
+ Things to take in consideration:
 - Symmetry
 - Asymmetry
 - Shapes (Circle)
@@ -8,15 +8,15 @@ Things to take in consideration:
 - Scale
 - Grid
 
-General references for HTML, CSS, JavaScript 
-- <a href = "https://developer.mozilla.org/en-US/" target = "_blank"> Developer Mozilla</a>
-- <a href = "https://dribbble.com/" target = "_blank"> Dribble </a>
-- <a href = "https://glitch.com/" target = "_blank"> Glitch </a>
-- <a href = "https://www.behance.net/" target = "_blank"> Behance </a>
-- <a href = "https://codesandbox.io/" target = "_blank"> Code Sand Box </a>
-- <a href = "https://give-n-go.co/" target = "_blank"> Give-n-go</a>
-- <a href = "https://codepen.io/topics/" target = "_blank"> CodePen Design Patterns </a>
-- <a href = "https://thenounproject.com/" target = "_blank"> The Noun Project - Icons </a>
+## General references for HTML, CSS, JavaScript 
+- [Developer Mozilla](https://developer.mozilla.org/en-US/)
+- [Dribble](https://dribbble.com/)
+- [Glitch](https://glitch.com/)
+- [Behance](https://www.behance.net/)
+- [Code Sand Box](https://codesandbox.io/)
+- [Give n Go](https://give-n-go.co/)
+- [CodePen Design Patterns](https://codepen.io/topics/)
+- [The Noun Project - Icons](https://thenounproject.com/)
 
 1. Grid <br>
 A) Tools
@@ -83,6 +83,7 @@ B) Examples
 - <a href = "https://jakearchibald.github.io/svgomg/" target = "_blank"> SVG OMG </a>
 - <a href = "https://css-tricks.com/high-performance-svgs/" target = "_blank"> SVG Performance</a>
 - <a href = "https://css-tricks.com/using-svg/" target = "_blank"> SVG CSS Tricks </a>
+
 6. Motions
 - <a href = "https://flowmapp.com/" target = "_blank"> Flow Mapp</a>
 <a href = "" target = "_blank"> </a>
