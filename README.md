@@ -17,6 +17,7 @@
 #### Flexbox
 - [CSS Tricks - A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 - [Flexbox Froggy](https://flexboxfroggy.com/#ro)
+- [Flexbox Example](https://dev.to/domysee/keeping-the-footer-at-the-bottom-with-css-flexbox-5h5f)
 ### Tools
 - [CSS Clip Path Maker](https://bennettfeely.com/clippy/)
 ### Examples
